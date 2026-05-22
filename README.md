@@ -546,7 +546,7 @@ Each day contains:
 
 ### 🔹 Output Screenshot
 
-![SQL Output](2026-05-022_SQL_052.png)
+![SQL Output](2026-05-22_SQL_052.png)
 
 ---
 
