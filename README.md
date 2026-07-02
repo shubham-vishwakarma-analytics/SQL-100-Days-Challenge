@@ -1,4 +1,4 @@
-# 📊 Daily SQL Practices
+# 📊 Daily SQL Practice
 
 Welcome to my **Daily SQL Practice Repository**.  
 I solve **1 SQL problem every day** to improve my SQL skills for **Data Analyst roles**.
