@@ -1018,5 +1018,94 @@ Each day contains:
 
 ---
 
+## Day 91 - 30 June 2026
+### 🔹 SQL Query
+[Open SQL File](2026-06-30_SQL_091.sql)
+
+### 🔹 Output Screenshot
+![SQL Output](2026-06-30_SQL_091.png)
+
+---
+
+## Day 92 - 1 July 2026
+### 🔹 SQL Query
+[Open SQL File](2026-07-01_SQL_092.sql)
+
+### 🔹 Output Screenshot
+![SQL Output](2026-07-01_SQL_092.png)
+
+---
+
+## Day 93 - 2 July 2026
+### 🔹 SQL Query
+[Open SQL File](2026-07-02_SQL_093.sql)
+
+### 🔹 Output Screenshot
+![SQL Output](2026-07-02_SQL_093.png)
+
+---
+
+## Day 94 - 3 July 2026
+### 🔹 SQL Query
+[Open SQL File](2026-07-03_SQL_094.sql)
+
+### 🔹 Output Screenshot
+![SQL Output](2026-07-03_SQL_094.png)
+
+---
+
+## Day 95 - 4 July 2026
+### 🔹 SQL Query
+[Open SQL File](2026-07-04_SQL_095.sql)
+
+### 🔹 Output Screenshot
+![SQL Output](2026-07-04_SQL_095.png)
+
+---
+
+## Day 96 - 5 July 2026
+### 🔹 SQL Query
+[Open SQL File](2026-07-05_SQL_096.sql)
+
+### 🔹 Output Screenshot
+![SQL Output](2026-07-05_SQL_096.png)
+
+---
+
+## Day 97 - 6 July 2026
+### 🔹 SQL Query
+[Open SQL File](2026-07-06_SQL_097.sql)
+
+### 🔹 Output Screenshot
+![SQL Output](2026-07-06_SQL_097.png)
+
+---
+
+## Day 98 - 7 July 2026
+### 🔹 SQL Query
+[Open SQL File](2026-07-07_SQL_098.sql)
+
+### 🔹 Output Screenshot
+![SQL Output](2026-07-07_SQL_098.png)
+
+---
+
+## Day 99 - 8 July 2026
+### 🔹 SQL Query
+[Open SQL File](2026-07-08_SQL_099.sql)
+
+### 🔹 Output Screenshot
+![SQL Output](2026-07-08_SQL_099.png)
+
+---
+
+## Day 100 - 9 July 2026
+### 🔹 SQL Query
+[Open SQL File](2026-07-09_SQL_100.sql)
+
+### 🔹 Output Screenshot
+![SQL Output](2026-07-09_SQL_100.png)
+
+---
 
 ---
