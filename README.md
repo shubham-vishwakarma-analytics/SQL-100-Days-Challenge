@@ -18,14 +18,12 @@ This repository reflects my **consistency, discipline, and continuous improvemen
 ---
 
 ## 🗄 About the Data
-Queries in this challenge run against the **AdventureWorks** sample database, covering tables such as:
-- `product`
-- `purchaseorderdetail`
-- `transactionhistory`
-- `workorder`
-- `workorderrouting`
-
-Source files are available in the [`datasets/`](datasets/) folder.
+Queries in this challenge run against the **AdventureWorks** sample database. Source tables used:
+- [`Product.csv`](datasets/Product.csv)
+- [`PurchaseOrderDetail.csv`](datasets/PurchaseOrderDetail.csv)
+- [`TransactionHistory.csv`](datasets/TransactionHistory.csv)
+- [`WorkOrder.csv`](datasets/WorkOrder.csv)
+- [`WorkOrderRouting.csv`](datasets/WorkOrderRouting.csv)
 
 ---
 
