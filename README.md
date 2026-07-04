@@ -9,10 +9,23 @@ This repository reflects my **consistency, discipline, and continuous improvemen
 
 ## 🗂 Structure
 ```
+├── datasets/   # Source data used for practice queries
 ├── queries/    # All 100 SQL query files
 ├── outputs/    # All 100 output screenshots
 └── README.md
 ```
+
+---
+
+## 🗄 About the Data
+Queries in this challenge run against the **AdventureWorks** sample database, covering tables such as:
+- `product`
+- `purchaseorderdetail`
+- `transactionhistory`
+- `workorder`
+- `workorderrouting`
+
+Source files are available in the [`datasets/`](datasets/) folder.
 
 ---
 
