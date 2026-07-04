@@ -17,9 +17,7 @@ Each day has its own folder containing:
 │   ├── 2026-04-01_SQL_001.sql
 │   └── 2026-04-01_SQL_001.png
 ├── Day_002/
-│   ├── 2026-04-02_SQL_002.sql
-│   └── 2026-04-02_SQL_002.png
-├── ...
+│   └── ...
 └── Day_100/
     ├── 2026-07-09_SQL_100.sql
     └── 2026-07-09_SQL_100.png
